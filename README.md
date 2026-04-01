@@ -2,7 +2,7 @@
 
 # It works on my machine. And somehow, in prod.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=orknist&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/orknist)
+![Visitors](https://api.visitorbadge.io/api/combined?path=orknist&countColor=%230e75b6)
 
 **Full Stack Developer · Team Lead · CTO**  
 *17+ years turning ideas into production systems*
